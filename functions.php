@@ -58,6 +58,7 @@ function vm_google_reviews_shortcode( $atts ) {
     ob_start();
     ?>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 
     <div class="swiper gReviewsSwiper">
         <div class="swiper-wrapper">
